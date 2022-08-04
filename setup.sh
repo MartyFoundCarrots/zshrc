@@ -9,7 +9,6 @@ case $input in
             echo "You say Yes"
 	         cp zshrc ~/.zshrc
 				chsh -s $(which zsh)
-				source ~/.zshrc	
 				echo "Logout and back in"
 
             ;;
