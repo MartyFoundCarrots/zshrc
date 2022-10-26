@@ -5,3 +5,5 @@
 ## Description
 My zshrc config
 - modded from Kali
+
+Run setup.sh to pop it in
