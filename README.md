@@ -1,3 +1,3 @@
 # zshrc
 my zshrc config
-- copied from Kali
+- modded from Kali
